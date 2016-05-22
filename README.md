@@ -1,5 +1,8 @@
-# gulp-jekyll
-## Skeleton of Gulp workflow with Jekyll
+# gulp-jekyll - Skeleton of Gulp workflow with Jekyll
+### Dependencies
+Just [Jekyll](http://jekyllrb.com/docs/installation/) and its dependencies.
+
+### Installation
 
 	git clone https://github.com/WebsByTodd/gulp-jekyll.git gulp-jekyll-project
 	cd gulp-jekyll project
