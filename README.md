@@ -5,7 +5,7 @@ Just [Jekyll](http://jekyllrb.com/docs/installation/) and its dependencies.
 ### Installation
 
 	git clone https://github.com/WebsByTodd/gulp-jekyll.git gulp-jekyll-project
-	cd gulp-jekyll project
+	cd gulp-jekyll-project
 	npm install
 	bundle update
 	gulp
